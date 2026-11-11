@@ -1,4 +1,4 @@
-# Remastered-Ratchet-and-Clank-icons
+# Remastered Ratchet & Clank-icons
 Collection of various icons from PlayStation 2 Ratchet &amp; Clank-games, remastered in higher quality.
 <p float="left">
   <img align="up" width="64" src="https://github.com/veldoodles/Remastered-Ratchet-and-Clank-icons/blob/main/icons/readme_preview_icons/Rac1_Visibomb_preview.png" />
