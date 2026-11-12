@@ -38,3 +38,9 @@ You are free to use the icons in your personal projects, fan games, videos and n
 Commercial use of the icons is strictly prohibited.
 
 Ratchet & Clank © Sony Interactive Entertainment LLC. Developed by Insomniac Games. All rights reserved.
+
+
+## TODO
+- Add more icons
+- Easier way to download specific icons without needing to download the whole repo
+- (Nice to have) Preview the icons on a separate page
